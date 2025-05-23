@@ -28,12 +28,12 @@ Right-click on index.html → Open with Live Server
 ---
 
 ## 📁 Project Structure
----
+```
 To-Do-List/
 │
 ├── index.html         # Main HTML file
 ├── style.css          # Styling (CSS)
 ├── script.js          # Interactivity (JavaScript)
 └── README.md          # Project documentation
----
+
 
