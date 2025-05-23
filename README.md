@@ -18,11 +18,11 @@ A clean and minimalistic To-Do List web app built using **HTML, CSS, and JavaScr
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+ 1. Clone the Repository
 git clone https://github.com/SaiReshmithaP/To-Do-List.git
 cd To-Do-List
 
-# /Using Live Server
+ 2. /Using Live Server
 Right-click on index.html → Open with Live Server
 
 ---
@@ -35,3 +35,4 @@ To-Do-List/
 ├── style.css          # Styling (CSS)
 ├── script.js          # Interactivity (JavaScript)
 └── README.md          # Project documentation
+--
